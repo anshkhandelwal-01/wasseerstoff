@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wasseerstoff/static/css/main.fc51bb25.css",
+    "main.js": "/wasseerstoff/static/js/main.7c5dc29b.js",
+    "index.html": "/wasseerstoff/index.html",
+    "main.fc51bb25.css.map": "/wasseerstoff/static/css/main.fc51bb25.css.map",
+    "main.7c5dc29b.js.map": "/wasseerstoff/static/js/main.7c5dc29b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc51bb25.css",
+    "static/js/main.7c5dc29b.js"
+  ]
+}
